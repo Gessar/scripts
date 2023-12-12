@@ -1,3 +1,3 @@
 # scripts
 example:
-bash < <(curl -s https://raw.githubusercontent.com/Gessar/scripts/main/ls.sh)
+curl -fsSL https://raw.githubusercontent.com/Gessar/scripts/main/install_docker.sh | sh
